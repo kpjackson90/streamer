@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "source",
+      "description": "source description",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "some new stream",
+      "id": 2
+    },
+    {
+      "title": "sdjnsjkdncjksnjknsjkdns",
+      "description": "sdjnjknsjkdnjskn",
+      "userId": "111108045154881989580",
+      "id": 4
+    },
+    {
+      "title": "sdjnsjkdncjksnjknsjkdns",
+      "description": "sdjnjknsjkdnjskn",
+      "userId": "111108045154881989580",
+      "id": 5
+    },
+    {
+      "title": "Update",
+      "description": "testing history",
+      "id": 7
+    }
+  ]
+}
